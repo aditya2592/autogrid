@@ -1,0 +1,9 @@
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.Properties.Resources.resources
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.csproj.GenerateResource.Cache
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\bin\Debug\MinotaurPathfinder.exe
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\bin\Debug\MinotaurPathfinder.pdb
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.exe
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.pdb
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.Map.resources
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Debug\MinotaurPathfinder.BoardControl.resources

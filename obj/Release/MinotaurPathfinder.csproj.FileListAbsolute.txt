@@ -1,0 +1,18 @@
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\bin\Release\MinotaurPathfinder.exe
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\bin\Release\MinotaurPathfinder.pdb
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.Map.resources
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.Properties.Resources.resources
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.csproj.GenerateResource.Cache
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.exe
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.pdb
+C:\Users\allensamuel\Documents\Visual Studio 2008\Projects\MinotaurPathfinder\obj\Release\MinotaurPathfinder.BoardControl.resources
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.exe
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.pdb
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\bin\Release\MinotaurPathfinder.exe
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\bin\Release\MinotaurPathfinder.pdb
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.csprojResolveAssemblyReference.cache
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.BoardControl.resources
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.Map.resources
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.Properties.Resources.resources
+C:\Users\ABCD\Desktop\ACROSS arena\MinotaurPathfinder\obj\Release\MinotaurPathfinder.csproj.GenerateResource.Cache
